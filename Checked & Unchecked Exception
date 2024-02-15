@@ -1,0 +1,11 @@
+Checked Exception:
+*They occur at compile time
+*The compiler checks for a checked exception
+*It is a sub-class of the exception class
+*Example of Checked exception- ‘File Not Found Exception’
+
+Unchecked Exception:
+*These exceptions occur at runtime
+*The compiler doesn’t check for these kinds of exceptions
+*These are not a part of the ‘Exception’ class since they are runtime exceptions
+*Example of Unchecked Exceptions- ‘No Such Element Exception’
