@@ -1,0 +1,11 @@
+Exception: 
+*Exceptions in Java can be either checked or unchecked
+*Recovery from an exception is possible
+*Exceptions may occur during both runtime and compile time
+*The program's code is responsible for exceptions
+
+Error:
+*All errors in Java are unchecked
+*Recovery from an error is typically not possible
+*Errors primarily arise due to the lack of system resources
+*The system executing the program is responsible for errors.
